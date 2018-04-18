@@ -17,3 +17,31 @@ If you do not have an Arduino, you can use the web-based Arduino simulator at
 
 You will need to create an account for free. There are instructional videos on 
 that website that will teach you how to use the simulator. 
+
+--Reading
+
+www.arduino.cc/en/Guide/Introduction
+
+www.arduino.cc/en/Guide/Windows OR 
+www.arduino.cc/en/Guide/MacOSX
+
+--Arduino Shields
+Fairly complete list is at
+http://shieldlist.org
+
+--Set up the Arduino IDE
+1. Download the IDE: www.arduino.cc/en/Main/Software
+   - Also installs USB and other drivers
+2. Connect the board to your computer
+   - Use USB cable
+3. Lauch the Arduino application
+   - Starts the IDE
+4. Open the Blink example:
+   - File > Examples > Basics > Blink
+5. Select your Arduino in the Tools > Board menu
+6. Select your serial port in the Tools > Port menu
+   - There should be only one selection (COM3 etc)
+7. Upload the program with the upload button
+   - This writes the program onto the Flash of the Arduino
+8. The LED near pin 13 of the Arduino should blink.
+
