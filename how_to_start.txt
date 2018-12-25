@@ -25,6 +25,9 @@ www.arduino.cc/en/Guide/Introduction
 www.arduino.cc/en/Guide/Windows OR 
 www.arduino.cc/en/Guide/MacOSX
 
+--The Fritzing tool:
+http://fritzing.org/download/
+
 --Arduino Shields
 Fairly complete list is at
 http://shieldlist.org
