@@ -1,3 +1,14 @@
+https://www.arduino.cc/en/Guide/HomePage
+- user: scratch126 
+
+https://scratch.mit.edu/
+- user: zdf126
+
+
+-- Install Scratch Arduino extension so we can use scratch to program.
+   http://khanning.github.io/scratch-arduino-extension/
+   http://khanning.github.io/scratch-arduino-extension/gettingstarted.html
+
 --Hardware and Software
 
 Your learning will be enhanced if you purchase the recommended hardware for this course. 
